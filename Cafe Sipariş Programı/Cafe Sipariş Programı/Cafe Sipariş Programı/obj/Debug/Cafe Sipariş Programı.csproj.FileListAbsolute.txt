@@ -1,0 +1,10 @@
+D:\ÇALIŞMALARIM\Projelerim\C#\YENİ FORM PROJELERİM\Cafe Sipariş Programı\Cafe Sipariş Programı\Cafe Sipariş Programı\bin\Debug\Cafe Sipariş Programı.exe.config
+D:\ÇALIŞMALARIM\Projelerim\C#\YENİ FORM PROJELERİM\Cafe Sipariş Programı\Cafe Sipariş Programı\Cafe Sipariş Programı\bin\Debug\Cafe Sipariş Programı.exe
+D:\ÇALIŞMALARIM\Projelerim\C#\YENİ FORM PROJELERİM\Cafe Sipariş Programı\Cafe Sipariş Programı\Cafe Sipariş Programı\bin\Debug\Cafe Sipariş Programı.pdb
+D:\ÇALIŞMALARIM\Projelerim\C#\YENİ FORM PROJELERİM\Cafe Sipariş Programı\Cafe Sipariş Programı\Cafe Sipariş Programı\obj\Debug\Cafe Sipariş Programı.csproj.AssemblyReference.cache
+D:\ÇALIŞMALARIM\Projelerim\C#\YENİ FORM PROJELERİM\Cafe Sipariş Programı\Cafe Sipariş Programı\Cafe Sipariş Programı\obj\Debug\Cafe_Sipariş_Programı.Properties.Resources.resources
+D:\ÇALIŞMALARIM\Projelerim\C#\YENİ FORM PROJELERİM\Cafe Sipariş Programı\Cafe Sipariş Programı\Cafe Sipariş Programı\obj\Debug\Cafe Sipariş Programı.csproj.GenerateResource.cache
+D:\ÇALIŞMALARIM\Projelerim\C#\YENİ FORM PROJELERİM\Cafe Sipariş Programı\Cafe Sipariş Programı\Cafe Sipariş Programı\obj\Debug\Cafe Sipariş Programı.csproj.CoreCompileInputs.cache
+D:\ÇALIŞMALARIM\Projelerim\C#\YENİ FORM PROJELERİM\Cafe Sipariş Programı\Cafe Sipariş Programı\Cafe Sipariş Programı\obj\Debug\Cafe Sipariş Programı.exe
+D:\ÇALIŞMALARIM\Projelerim\C#\YENİ FORM PROJELERİM\Cafe Sipariş Programı\Cafe Sipariş Programı\Cafe Sipariş Programı\obj\Debug\Cafe Sipariş Programı.pdb
+D:\ÇALIŞMALARIM\Projelerim\C#\YENİ FORM PROJELERİM\Cafe Sipariş Programı\Cafe Sipariş Programı\Cafe Sipariş Programı\obj\Debug\Cafe_Sipariş_Programı.siparisForm.resources
